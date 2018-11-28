@@ -1,0 +1,1 @@
+Do not pass the pointer directly into the go routine, try to pass the object, or a newly created object pointer
