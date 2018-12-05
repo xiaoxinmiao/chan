@@ -6,3 +6,4 @@ m5: https://golang.org/doc/codewalk/sharemem/
 
 s1: Do not pass the pointer directly into the go routine, try to pass the object, or a newly created object pointer
 s2: using limit with output param
+s3: keep 10 goroutine always running
