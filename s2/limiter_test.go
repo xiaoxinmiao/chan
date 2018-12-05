@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-// TestExample should take a bit more than 400ms (less than 440ms too)
+// TestExample output param
 func TestTime(t *testing.T) {
 	// params
 	nbJobs := 1600
